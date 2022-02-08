@@ -1,5 +1,6 @@
 # 08-02-2002-assignment
 #a program to perform all comparison operatoions on given two values
+
 a=int(input('enter the a value:'))
 b=int(input('enter the b value:'))
 c=(a<b)
